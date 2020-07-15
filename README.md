@@ -1,5 +1,5 @@
 # Readibility
 
-Project from Hyperskill
+Special thanks to Hyperskill
 
 Stage 3
