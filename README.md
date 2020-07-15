@@ -1,4 +1,4 @@
-# Readibility
+# Readability
 
 Special thanks to Hyperskill
 
